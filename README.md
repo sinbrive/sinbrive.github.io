@@ -2,4 +2,4 @@
 
 # under construction
 
-[GitHub](games/test.txt)
+[GitHub](games/test.md)
