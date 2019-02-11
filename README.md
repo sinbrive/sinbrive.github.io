@@ -2,4 +2,4 @@
 
 # under construction
 
-[GitHub](/save.md)
+[GitHub](/games/test.txt)
