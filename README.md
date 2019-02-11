@@ -2,4 +2,4 @@
 
 # under construction
 
-[GitHub](/master/save.md)
+[GitHub](/save.md)
