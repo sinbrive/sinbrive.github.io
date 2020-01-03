@@ -1,8 +1,8 @@
 
 # Game programming
-# Labs
-# Fork
-  an many forks
+# Labs : arduino & raspberry
+# TCP/IP, I2C, CAN ... 
+
 
 
 
