@@ -2,10 +2,15 @@
 #Game programming
 
   sinbrive/snapi-pacman
+  
   sinbrive/snapi-games-stuf
+  
   sinbrive/snapi-agrio
+  
   sinbrive/snapi-geometry
+  
   sinbrive/snapi-paperio
+  
   sinbrive/snapi-supersmashbros
 
 #Labs
