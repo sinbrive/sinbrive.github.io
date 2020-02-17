@@ -1,7 +1,8 @@
 
+# C, C++, Java, C#, PHP, MySQL, JS, Python ...
 # Game programming
 # Labs : arduino & raspberry
-# TCP/IP, I2C, CAN ... 
+# TCP/IP, Modbus, IoT ... 
 # Instructor CISCO
 
 
